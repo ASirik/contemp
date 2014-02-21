@@ -17,7 +17,7 @@
 	<!-- CSS
   ================================================== -->
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" />
-	
+
 	<?php global $gdl_is_responsive ?>
 	<?php if( $gdl_is_responsive ){ ?>
 		<meta name="viewport" content="width=device-width, user-scalable=no">
@@ -51,7 +51,8 @@
 		// start calling header script
 		wp_head();		
 
-	?>	
+	?>
+    <link rel="stylesheet" href="custom.css" type="text/css" />
 </head>
 <body <?php echo body_class(); ?>>
 <?php
