@@ -53,6 +53,8 @@
 
 	?>
     <link rel="stylesheet" href="custom.css" type="text/css" />
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="map.js"></script>
 </head>
 <body <?php echo body_class(); ?>>
 <?php
