@@ -28,7 +28,7 @@
 }
 
 .custom-partners{
-    width:1140px;
+    max-width:1140px;
 }
 .custom-partners li{
     list-style: none;
