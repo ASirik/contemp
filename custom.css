@@ -26,3 +26,16 @@
 .video-container .fancybox{
     float:left
 }
+
+.custom-partners{
+    width:1140px;
+}
+.custom-partners li{
+    list-style: none;
+    float:left;
+    width:20%;
+}
+
+.clear{
+    clear:both;
+}
