@@ -39,3 +39,7 @@
 .clear{
     clear:both;
 }
+
+.copyright-wrapper{
+    display: none;
+}
