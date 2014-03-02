@@ -41,10 +41,10 @@
 				<div class="container copyright-container">
 					<div class="copyright-wrapper">
 						<div class="copyright-left">
-							<p>Работает на <a href="http://morestyle.ru">Wordpress</a>. Все права защищены ©2013.</p>
+							<p><a href="http://dance.cn.ua">Dance.cn.ua</a> ©2014.</p>
 						</div> 
 						<div class="copyright-right">
-							<?php echo do_shortcode( __(get_option(THEME_SHORT_NAME.'_copyright_right_area'), 'gdl_front_end') ); ?>
+							<?php //echo do_shortcode( __(get_option(THEME_SHORT_NAME.'_copyright_right_area'), 'gdl_front_end') ); ?>
 						</div> 
 						<div class="clear"></div>
 					</div>
